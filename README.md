@@ -1,4 +1,4 @@
-# Inventory-Control-Sysyem
+# Inventory-Control-System
 
 Inventory Control System, is a project mainly designing to manage, control and
 track inventory(account) activity for a business. This approach will ensure us to
